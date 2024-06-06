@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/davit/Desktop/CS/Projects/Chiral Network/Server/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/Server.dir/main.cpp.o -c \"/home/davit/Desktop/CS/Projects/Chiral Network/Server/main.cpp\"",
+  "file": "/home/davit/Desktop/CS/Projects/Chiral Network/Server/main.cpp",
+  "output": "CMakeFiles/Server.dir/main.cpp.o"
+},
+{
+  "directory": "/home/davit/Desktop/CS/Projects/Chiral Network/Server/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/Server.dir/soruces/Server.cpp.o -c \"/home/davit/Desktop/CS/Projects/Chiral Network/Server/soruces/Server.cpp\"",
+  "file": "/home/davit/Desktop/CS/Projects/Chiral Network/Server/soruces/Server.cpp",
+  "output": "CMakeFiles/Server.dir/soruces/Server.cpp.o"
+},
+{
+  "directory": "/home/davit/Desktop/CS/Projects/Chiral Network/Server/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/Server.dir/soruces/Session.cpp.o -c \"/home/davit/Desktop/CS/Projects/Chiral Network/Server/soruces/Session.cpp\"",
+  "file": "/home/davit/Desktop/CS/Projects/Chiral Network/Server/soruces/Session.cpp",
+  "output": "CMakeFiles/Server.dir/soruces/Session.cpp.o"
+}
+]

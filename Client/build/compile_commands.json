@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/davit/Desktop/CS/Projects/Chiral Network/Client/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/Client.dir/main.cpp.o -c \"/home/davit/Desktop/CS/Projects/Chiral Network/Client/main.cpp\"",
+  "file": "/home/davit/Desktop/CS/Projects/Chiral Network/Client/main.cpp",
+  "output": "CMakeFiles/Client.dir/main.cpp.o"
+},
+{
+  "directory": "/home/davit/Desktop/CS/Projects/Chiral Network/Client/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/Client.dir/Client.cpp.o -c \"/home/davit/Desktop/CS/Projects/Chiral Network/Client/Client.cpp\"",
+  "file": "/home/davit/Desktop/CS/Projects/Chiral Network/Client/Client.cpp",
+  "output": "CMakeFiles/Client.dir/Client.cpp.o"
+}
+]

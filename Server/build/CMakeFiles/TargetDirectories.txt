@@ -1,0 +1,3 @@
+/home/davit/Desktop/CS/Projects/Chiral Network/Server/build/CMakeFiles/Server.dir
+/home/davit/Desktop/CS/Projects/Chiral Network/Server/build/CMakeFiles/edit_cache.dir
+/home/davit/Desktop/CS/Projects/Chiral Network/Server/build/CMakeFiles/rebuild_cache.dir
